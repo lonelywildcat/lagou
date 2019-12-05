@@ -1,0 +1,28 @@
+const areaCode = [
+	{area: "常用", Code:"", disable: true},
+	{area: "中国", Code:"0086", disable: false},
+	{area: "中国香港", Code:"00852", disable: false},
+	{area: "中国台湾", Code:"00886", disable: false},
+	{area: "中国澳门", Code:"00853", disable: false},
+	{area: "美国", Code:"001", disable: false},
+	{area: "A", Code:"", disable: true},
+	{area: "澳大利亚", Code:"0061", disable: false},
+	{area: "B", Code:"", disable: true},
+	{area: "巴西", Code:"0055", disable: false},
+	{area: "D", Code:"", disable: true},
+	{area: "德国", Code:"0049", disable: false},
+	{area: "E", Code:"", disable: true},
+	{area: "俄罗斯", Code:"007", disable: false},
+	{area: "F", Code:"", disable: true},
+	{area: "法国", Code:"0033", disable: false},
+	{area: "H", Code:"", disable: true},
+	{area: "韩国", Code:"0082", disable: false},
+	{area: "J", Code:"", disable: true},
+	{area: "加拿大", Code:"001", disable: false},
+	{area: "R", Code:"", disable: true},
+	{area: "日本", Code:"0081", disable: false},
+	{area: "Y", Code:"", disable: true},
+	{area: "英国", Code:"0044", disable: false},
+];
+
+export default areaCode;
