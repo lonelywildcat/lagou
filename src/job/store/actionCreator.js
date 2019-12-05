@@ -33,7 +33,7 @@ export const mouseLeaveInfo = (index) => ({
 
 export const getJobData = () => {
 	return (dispatch) => {
-		axios.get('/api/job.json')
+		axios.get('https://lonelywildcat.github.io/lagou/api/job.json')
 		.then((res) => {
 			dispatch({
 				type: "GET_JOB_DATA",

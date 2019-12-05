@@ -127,6 +127,9 @@ export const SuggestCity = styled.div`
 	&:hover .text{
 		color: rgb(5 234 175);
 	}
+	:link{
+		text-decoration: none;
+	}
  `;
 
  export const AppIcon = styled.div`
