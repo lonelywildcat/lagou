@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/lagou/static/js/main.3aa03b2d.chunk.js",
-    "main.js.map": "/lagou/static/js/main.3aa03b2d.chunk.js.map",
-    "runtime~main.js": "/lagou/static/js/runtime~main.977fd26a.js",
-    "runtime~main.js.map": "/lagou/static/js/runtime~main.977fd26a.js.map",
-    "static/js/2.678f28d6.chunk.js": "/lagou/static/js/2.678f28d6.chunk.js",
-    "static/js/2.678f28d6.chunk.js.map": "/lagou/static/js/2.678f28d6.chunk.js.map",
-    "index.html": "/lagou/index.html",
-    "precache-manifest.2fc7805748c9024b666615a2d7ccf6d1.js": "/lagou/precache-manifest.2fc7805748c9024b666615a2d7ccf6d1.js",
-    "service-worker.js": "/lagou/service-worker.js",
-    "static/media/popup-sprite.png": "/lagou/static/media/popup-sprite.e5ea04fd.png",
-    "static/media/s1.jpg": "/lagou/static/media/s1.3ae03803.jpg",
-    "static/media/s2.jpg": "/lagou/static/media/s2.6e96d66b.jpg",
-    "static/media/s3.jpg": "/lagou/static/media/s3.59705ed5.jpg",
-    "static/media/s4.jpg": "/lagou/static/media/s4.fe4b0f73.jpg"
+    "main.js": "/logou/static/js/main.3aa03b2d.chunk.js",
+    "main.js.map": "/logou/static/js/main.3aa03b2d.chunk.js.map",
+    "runtime~main.js": "/logou/static/js/runtime~main.4452cfec.js",
+    "runtime~main.js.map": "/logou/static/js/runtime~main.4452cfec.js.map",
+    "static/js/2.b80b7f39.chunk.js": "/logou/static/js/2.b80b7f39.chunk.js",
+    "static/js/2.b80b7f39.chunk.js.map": "/logou/static/js/2.b80b7f39.chunk.js.map",
+    "index.html": "/logou/index.html",
+    "precache-manifest.6e3fea7c4cc1d74b379a73ed4b14de55.js": "/logou/precache-manifest.6e3fea7c4cc1d74b379a73ed4b14de55.js",
+    "service-worker.js": "/logou/service-worker.js",
+    "static/media/popup-sprite.png": "/logou/static/media/popup-sprite.e5ea04fd.png",
+    "static/media/s1.jpg": "/logou/static/media/s1.3ae03803.jpg",
+    "static/media/s2.jpg": "/logou/static/media/s2.6e96d66b.jpg",
+    "static/media/s3.jpg": "/logou/static/media/s3.59705ed5.jpg",
+    "static/media/s4.jpg": "/logou/static/media/s4.fe4b0f73.jpg"
   }
 }
