@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2bbe9a7d33ab8ee68f9265eaa03e982c",
+    "revision": "29ba356feadb4b6dd977506f6e199373",
     "url": "/lagou/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lagou/static/js/2.678f28d6.chunk.js"
   },
   {
-    "revision": "266ab17aee958d0b66bf",
-    "url": "/lagou/static/js/main.0067748b.chunk.js"
+    "revision": "6a25bf8c4b6e2d7c22d5",
+    "url": "/lagou/static/js/main.33ffcea3.chunk.js"
   },
   {
     "revision": "8c5a11af75385aae7157",
